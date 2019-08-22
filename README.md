@@ -15,7 +15,7 @@ Clone your repository:
 Navigate into your project's directory:
 `cd dev-test-drive-<your-username>`
 
-Run `dev init` to set the ruby version to 2.5.1.
+Run `dev init` then `dev up`.
 
 Create a new branch.
 
