@@ -1,5 +1,5 @@
 **Code-along 1-2: Test drive**<br/>
-⏱ 30 minutes
+⏱ 45 minutes
 
 We are going to work through pages 35-43 in Head First Ruby, where we will be building a short program to simulate the actions of a car.
 
